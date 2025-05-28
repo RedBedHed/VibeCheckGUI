@@ -4,6 +4,10 @@
 ## Screenshot
 ![Screenshot](fear.png)
 
+## Usage
+Type a prompt into the textbox and the model will analyze it live. 
+###### *Note: the accuracy tends to improve as you type more words.*
+
 ## Credit
 
 ### Vibe.py Implementation

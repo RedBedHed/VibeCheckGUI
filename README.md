@@ -2,7 +2,7 @@
 ##### *A simple machine learning model for analyzing the emotionality of text with ~87% accuracy.*
 
 ## Screenshot
-!(Screenshot)[fear.png]
+![Screenshot](fear.png)
 
 ## Credit
 

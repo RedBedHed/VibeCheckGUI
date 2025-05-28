@@ -90,6 +90,7 @@ class Classifier:
         # GUI
         t = tk.Tk()
         t.geometry("750x750")
+        t.resizable(width=False, height=False)
         f = tf.Font(family="Arial", size=50)
         self.label = tk.Label(t, text=f"Vibe Check", font=f)
         self.label.pack(pady=10)
